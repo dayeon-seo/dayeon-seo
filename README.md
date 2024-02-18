@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **dayeon-seo/dayeon-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### ✨ Solved.ac ✨
 ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sdyhappy)
 https://solved.ac/sdyhappy
+
+### 🌱 I’m currently learning AI.
+
+### ⚡ Fun fact: I DO LIKE CATTTTTTTTTTTTTTTTTTTTT.
