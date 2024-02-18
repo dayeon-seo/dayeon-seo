@@ -20,6 +20,5 @@ https://solved.ac/sdyhappy
 
 ### 🌱 I’m currently learning AI.
 
-### ⚡ Fun fact: I DO LIKE CATTTTTTTTTTTTTTTTTTTTT.
-![tori]()
+### ⚡ Fun fact: I DO LIKE CATTTTTTTTTTTTTTTTTTTTT!!!
 <img width="100%" src="https://github.com/dayeon-seo/dayeon-seo/assets/115199442/6941d3cd-41e9-43d5-b4ad-55637435d101"/>
